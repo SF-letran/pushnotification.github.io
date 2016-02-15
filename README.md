@@ -9,3 +9,5 @@ Create a copy of config.sample.js called config.js
 Create a copy of manifest.sample.json called manifest.json
 Replace <Your Public API Key ...> in your new config.js file with your own API key from the Google Developer Console project
 Replace <Your Project Number ...> in your new manifest.json with your own project number from the Google Developer Console project
+# Related Samples
+Push messaging and notifications are built on service workers.
