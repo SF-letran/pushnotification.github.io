@@ -1,4 +1,3 @@
-
 {
   "name": "Push Demo",
   "short_name": "Push Demo",
@@ -8,7 +7,7 @@
       }],
   "start_url": "./index.html?homescreen=1",
   "display": "standalone",
-  "gcm_sender_id": "707067793361",
+  "gcm_sender_id": "157334566740",
   
   "//": "gcm_user_visible_only is only needed until Chrome 44 is in stable ",
   "gcm_user_visible_only": true
